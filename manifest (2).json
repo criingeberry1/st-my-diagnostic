@@ -1,0 +1,11 @@
+{
+    "display_name": "BV Doctor",
+    "loading_order": 1,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "",
+    "author": "your insomnia & claude code",
+    "version": "1.0.0",
+    "description": "Diagnoses and fixes Vector Storage issues caused by Better Vectors."
+}
