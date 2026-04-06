@@ -1,0 +1,1 @@
+# st-my-diagnostic
